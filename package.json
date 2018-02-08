@@ -1,0 +1,36 @@
+{
+  "name": "e-commerce-api",
+  "version": "1.0.0",
+  "description": "This module contains a test for e-commerce api",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "e-commerce-api": "^1.0.6",
+    "express": "^4.16.2",
+    "supertest": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BestSurvive/e-commerce-api.git"
+  },
+  "keywords": [
+    "api",
+    "e-commerce",
+    "get",
+    "post",
+    "delete",
+    "put",
+    "test",
+    "js"
+  ],
+  "author": "Luca Cortile <cortilel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BestSurvive/e-commerce-api/issues"
+  },
+  "homepage": "https://github.com/BestSurvive/e-commerce-api#readme"
+}
